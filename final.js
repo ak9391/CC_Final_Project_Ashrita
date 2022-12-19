@@ -67,7 +67,7 @@ function setup() {
   image(welcome, 0, 0, 1440, 702);
   pop();
 
-  setTimeout(gallary, 4000); //setTimeout is used to to exicute certain code after soome time, two parameters function and time in milliseconds
+  setTimeout(gallary, 5000); //setTimeout is used to to exicute certain code after soome time, two parameters function and time in milliseconds
 
   noStroke();
   for (let i = 0; i < num; i++) {
